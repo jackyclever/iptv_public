@@ -13,6 +13,7 @@ biancangming/wtv
 https://github.com/zbefine/iptv
 '''
 zbefine/iptv
+>https://raw.githubusercontent.com/jackyclever/iptv_public/main/zbefine.m3u
 
 >global source:
 '''
