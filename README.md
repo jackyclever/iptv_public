@@ -20,6 +20,7 @@ zbefine/iptv
 https://github.com/iptv-org/iptv
 '''
 iptv-org/iptv
+>https://raw.githubusercontent.com/jackyclever/iptv_public/main/global.m3u
 
 >kimcrowing source:
 '''
