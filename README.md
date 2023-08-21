@@ -8,7 +8,7 @@ https://github.com/biancangming/wtv
 '''
 biancangming/wtv
 
->source:
+>zbefine source:
 '''
 https://github.com/zbefine/iptv
 '''
@@ -20,7 +20,7 @@ https://github.com/iptv-org/iptv
 '''
 iptv-org/iptv
 
->source:
+>kimcrowing source:
 '''
 https://github.com/kimcrowing/IPTV
 '''
